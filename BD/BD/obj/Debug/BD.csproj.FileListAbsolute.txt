@@ -1,0 +1,12 @@
+F:\BDKursach\BD\BD\bin\Debug\Database1.mdf
+F:\BDKursach\BD\BD\bin\Debug\Database1_log.ldf
+F:\BDKursach\BD\BD\bin\Debug\BD.exe.config
+F:\BDKursach\BD\BD\bin\Debug\BD.exe
+F:\BDKursach\BD\BD\bin\Debug\BD.pdb
+F:\BDKursach\BD\BD\obj\Debug\BD.csprojAssemblyReference.cache
+F:\BDKursach\BD\BD\obj\Debug\BD.Form1.resources
+F:\BDKursach\BD\BD\obj\Debug\BD.Properties.Resources.resources
+F:\BDKursach\BD\BD\obj\Debug\BD.csproj.GenerateResource.cache
+F:\BDKursach\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+F:\BDKursach\BD\BD\obj\Debug\BD.exe
+F:\BDKursach\BD\BD\obj\Debug\BD.pdb
